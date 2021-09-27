@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning R and SQL.
 - 💞️ I’m looking to collaborate on musictech research, building a music DAO, and making music!
 - 📫 How to reach me: 
-  guspygang.hns.to <- my decentralized linktree
-  My IG, Twitter, and Soundcloud all share the handle @guspygang. Feel free to DM on any platform.
+  guspygang.hns.to <- my decentralized linktree. My IG, Twitter, and Soundcloud all share the handle @guspygang. Feel free to DM on any platform.
 
 <!---
 guspygang/guspygang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
